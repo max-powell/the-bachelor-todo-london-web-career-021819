@@ -1,5 +1,7 @@
+require "pry"
+
 def get_first_name_of_season_winner(data, season)
-  # code here
+
 end
 
 def get_contestant_name(data, occupation)
